@@ -1,0 +1,16 @@
+PODS:
+  - Cache (5.3.0)
+
+DEPENDENCIES:
+  - Cache (from `../../`)
+
+EXTERNAL SOURCES:
+  Cache:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  Cache: b3f230a4e2e30e13b52863eb3539794fcc5e1995
+
+PODFILE CHECKSUM: cbd5f3c2bf5a6b6a5621ed05100be0a35d93df22
+
+COCOAPODS: 1.7.5
